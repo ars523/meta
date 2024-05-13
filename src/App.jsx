@@ -39,10 +39,10 @@ function App() {
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://cdn.ideahubbd.com/BaahStore/OldImages/aec9f85e-67d4-4a18-b134-6cd64e3b1a55.jpg" />
+        <meta property="twitter:url" content="https://main--peaceful-kulfi-575843.netlify.app/" />
         <meta property="twitter:title" content="The Shaaree" />
         <meta property="twitter:description" content="The best sharee of the world" />
-        <meta property="twitter:image" content="https://cdn.ideahubbd.com/BaahStore/OldImages/aec9f85e-67d4-4a18-b134-6cd64e3b1a55.jpg" />
+        <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
 
         {/* <!-- Meta Tags Generated with https://metatags.io --> */}
       </Helmet>
