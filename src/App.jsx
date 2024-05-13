@@ -5,6 +5,11 @@ import './App.css'
 
 function App() {
 
+  const addTwoNumbers = (a, b) => {
+    return a + b;
+  }
+
+  addTwoNumbers(2, 3)
   return (
     <>
       <Helmet>
