@@ -9,7 +9,7 @@ function App() {
     return a + b;
   }
 
-  addTwoNumbers(2, 3)
+  addTwoNumbers(2, 3)//just commit to check the pipeline
   return (
     <>
       <Helmet>
