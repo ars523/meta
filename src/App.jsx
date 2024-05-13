@@ -17,11 +17,33 @@ function App() {
         <meta name="twitter:title" content="My page title" />
         <meta name="twitter:description" content="Brief description of your page content for Twitter." />
         <meta name="twitter:image" content="https://i0.wp.com/old.baahstore.com/wp-content/uploads/2023/12/7_11zon-3.jpg" /> */}
-        <meta property="og:image" content="https://i0.wp.com/old.baahstore.com/wp-content/uploads/2024/01/3_11zon-4.jpg?fit=1200%2C1200&amp;ssl=1"></meta>
+
+        {/* <meta property="og:image" content="https://i0.wp.com/old.baahstore.com/wp-content/uploads/2024/01/3_11zon-4.jpg?fit=1200%2C1200&amp;ssl=1"></meta>
         <meta property="og:title" content="Baah Boho Round Jute Bag"></meta>
         <meta name="twitter:title" content="Baah Boho Round Jute Bag"></meta>
         <meta name="twitter:description" content="Brief description of your page content for Twitter."></meta>
-        <meta name="twitter:image" content="https://i0.wp.com/old.baahstore.com/wp-content/uploads/2024/01/3_11zon-4.jpg?fit=1200%2C1200&amp;ssl=1"></meta>
+        <meta name="twitter:image" content="https://i0.wp.com/old.baahstore.com/wp-content/uploads/2024/01/3_11zon-4.jpg?fit=1200%2C1200&amp;ssl=1"></meta> */}
+
+        {/* <!-- Primary Meta Tags --> */}
+        <title>The Shaaree</title>
+        <meta name="title" content="The Shaaree" />
+        <meta name="description" content="The best sharee of the world" />
+
+        {/* <!-- Open Graph / Facebook --> */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://main--peaceful-kulfi-575843.netlify.app/" />
+        <meta property="og:title" content="The Shaaree" />
+        <meta property="og:description" content="The best sharee of the world" />
+        <meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+        {/* <!-- Twitter --> */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://main--peaceful-kulfi-575843.netlify.app/" />
+        <meta property="twitter:title" content="The Shaaree" />
+        <meta property="twitter:description" content="The best sharee of the world" />
+        <meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+        {/* <!-- Meta Tags Generated with https://metatags.io --> */}
       </Helmet>
 
       <div>
